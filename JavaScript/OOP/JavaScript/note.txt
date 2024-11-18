@@ -21,6 +21,7 @@ Importance of TypeScript: It catches the potential error during development redu
 
 
 
-Object: Almost everthing in Javascript is an object. Object encapsulate state management in properties
-and associate behavior in methods.
+Object:An object is a collection of name/value pairs. Almost everthing in Javascript is an object. 
+Object encapsulate state management in properties and associate behavior in methods.
+Example: a car, which has properties like color, weight.. etc, and actions like honk(), move().. etc
 Example of object in javaascript: array, Date, error

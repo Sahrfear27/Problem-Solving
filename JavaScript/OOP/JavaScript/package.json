@@ -7,7 +7,9 @@
     "start": "nodemon object.ts",
     "pattern": "nodemon pattern.ts",
     "string": "nodemon strings.ts",
-    "resussion": "nodemon recussion.ts"
+    "resussion": "nodemon recussion.ts",
+    "inherit": "nodemon inheritance.ts",
+    "class": "nodemon classes.ts"
   },
   "keywords": [],
   "author": "",
