@@ -1,7 +1,13 @@
 /**
  In programming the purpose of inheritance is to take something and extend.
-  This property of javascript help us to extendt he behavior from other object.
+  This property of javascript help us to extend he behavior from other object.
   When you search for a property from and object and it does not exist, javascript automatically take it from the prototype
+
+  This is how they use to extend behavior in ES5. 
+  
+The ES6 classes provides a more structured way to define objects and their inheritance relationships.
+Under the hood, it still uses prototypal inheritance.
+You can use the extends keyword to create a subclass that inherits properties and methods from a parent class.
  * */
 
 const pet = {

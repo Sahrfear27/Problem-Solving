@@ -34,3 +34,19 @@ class Point2:
 
 points = Point2(2, 3)
 print(points.draw())
+
+
+"Creating a person object"
+
+
+class Person:
+    def __init__(self, firstname, lastname):
+        self.firstname = firstname
+        self.lastname = lastname
+
+    def sayHi(self):
+        return f"Greetings from {self.firstname} {self.lastname}"
+
+
+userObje = Person('Kelvin', 'Mac')
+print(userObje.sayHi())
