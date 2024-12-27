@@ -1,6 +1,7 @@
 /*
 Given a range of integers, determine how many numbers have no repeating digits.
-Example n=80
+Example 
+n=80
 m=120
 The lower and upper bounds are inclusive, so there are 120-79=41 values in the range. 
 Numbers without repeating characters are normal weight and others are bold. 
